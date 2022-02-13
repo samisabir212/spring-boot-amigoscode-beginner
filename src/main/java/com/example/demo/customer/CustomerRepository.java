@@ -1,2 +1,4 @@
-package com.example.demo.customer;public class CustomerRepository {
+package com.example.demo.customer;
+
+public class CustomerRepository {
 }

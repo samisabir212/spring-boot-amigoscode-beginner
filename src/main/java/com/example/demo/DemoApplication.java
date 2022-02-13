@@ -28,7 +28,7 @@ public class DemoApplication {
 		private final String name;
 
 		public Customer(Long id, String name) {
-			this.id = id;
+			this.id = id;s
 			this.name = name;
 		}
 

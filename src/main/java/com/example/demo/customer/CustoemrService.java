@@ -1,2 +1,4 @@
-package com.example.demo.customer;public class CustoemrService {
+package com.example.demo.customer;
+
+public class CustoemrService {
 }
