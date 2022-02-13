@@ -15,12 +15,12 @@ public class DemoApplication {
 
 	}
 
-	@GetMapping
-	Customer getCustomer(){
-
-		return new Customer(1L, "sami sabir");
-
-	}
+//	@GetMapping
+//	Customer getCustomer(){
+//
+//		return new Customer(1L, "sami sabir");
+//
+//	}
 
 	class Customer{
 
@@ -28,7 +28,7 @@ public class DemoApplication {
 		private final String name;
 
 		public Customer(Long id, String name) {
-			this.id = id;s
+			this.id = id;
 			this.name = name;
 		}
 
